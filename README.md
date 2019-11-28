@@ -9,7 +9,7 @@ This was a project where I worked with dummy electrical data. If anyone knows an
 The following pic below is the full Graph that I created with over 250 assets all connected through PARENT_OF and CHILD_OF relationships.
 Every node represents an electrical asset that is labeled and has properties such as location (building, floor), cost of replacement, criticality, commission_year, lifetime, redundancy (whether there is a backup asset).
 
-![Overall Graph](query_pics/Full Schema.PNG) 
+![Overall Graph](query_pics/FullSchema.PNG) 
 
 ## Sample Queries
 
